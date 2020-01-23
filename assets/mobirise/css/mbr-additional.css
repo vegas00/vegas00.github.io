@@ -168,8 +168,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #ff3333 !important;
+  border-color: #ff3333 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -177,14 +177,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #e50000 !important;
+  border-color: #e50000 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #e50000 !important;
+  border-color: #e50000 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -332,22 +332,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #cc0033;
-  color: #cc0033;
+  border-color: #cc0000;
+  color: #cc0000;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ff3366;
-  border-color: #ff3366;
+  background-color: #ff3333;
+  border-color: #ff3333;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #ff3333 !important;
+  border-color: #ff3333 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #ff3333 !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #ff3333 !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -493,7 +493,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #cc0033 !important;
+  color: #cc0000 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1410,7 +1410,7 @@ body {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #ffffff !important;
-  background: #ff3366 !important;
+  background: #ff3333 !important;
   box-shadow: none !important;
 }
 .cid-rLjEVZIqVm {
@@ -1487,6 +1487,9 @@ body {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-rO3xB4F2c6 .copyright > p {
+  text-align: left;
 }
 .cid-rO32RojblI .navbar {
   padding: .5rem 0;
@@ -2303,8 +2306,6 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rO31So3G7m {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/wallpaperflare.com-wallpaper-1920x1080.jpg");
 }
 .cid-rO31So3G7m .mbr-text,
@@ -2316,11 +2317,11 @@ body {
   padding-bottom: 15px;
   background-color: #2e2e2e;
 }
-.cid-rM3O6UxJsD {
-  background-image: url("../../../assets/images/photo-hyundai-merchant-marine-69766-1920x1080.jpg");
+.cid-rOk3q2oh30 {
+  background-image: url("../../../assets/images/photo-hyundai-merchant-marine-69767-1920x1080.jpg");
 }
-.cid-rM3O6UxJsD .mbr-text,
-.cid-rM3O6UxJsD .mbr-section-btn {
+.cid-rOk3q2oh30 .mbr-text,
+.cid-rOk3q2oh30 .mbr-section-btn {
   text-align: left;
 }
 .cid-rO32RojblI .navbar {
@@ -3143,8 +3144,6 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rO33IGF3ux {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/frank-mckenna-tjx-sninzgq-unsplash-2000x1304.jpg");
 }
 .cid-rO33IGF3ux .mbr-text,
@@ -3161,7 +3160,7 @@ body {
 }
 .cid-rM6qTTlhuN {
   padding-top: 90px;
-  padding-bottom: 45px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/airplane-wallpaper-2000x1172.jpg");
 }
 .cid-rM6qTTlhuN .mbr-section-subtitle {
@@ -3178,9 +3177,9 @@ body {
   -webkit-flex-shrink: 0;
 }
 .cid-rM6qTTlhuN .img-text {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
   border: 2px solid #efefef;
   border-radius: 50%;
 }
@@ -4892,8 +4891,6 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rO3ggSvehd {
-  padding-top: 90px;
-  padding-bottom: 0px;
   background-image: url("../../../assets/images/295460-berserker-1280x731.jpg");
 }
 .cid-rO3ggSvehd .mbr-text,
